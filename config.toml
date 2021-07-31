@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/liva/"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
-theme = "liva-hugo"
+title = "webrist good"
+theme = "How to intall vscode"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
