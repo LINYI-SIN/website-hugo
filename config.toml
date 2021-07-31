@@ -2,7 +2,7 @@
 baseURL = "https://demo.gethugothemes.com/liva/"
 languageCode = "en-us"
 title = "webrist good"
-theme = "How to intall vscode"
+theme = ""
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
